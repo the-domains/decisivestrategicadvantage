@@ -1,0 +1,28 @@
+name: DecisiveStrategicAdvantage
+favicon: null
+layout_spectrum: 0.3794945136178285
+typography_spectrum: 0.5823874457273632
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9757912699133158
+  lightness: 0.6689246166497469
+  saturation: 0.3521170602180064
+  rhythmicContrast: 0.32573047233745456
+purpose: []
