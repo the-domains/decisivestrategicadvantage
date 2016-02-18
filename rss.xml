@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DecisiveStrategicAdvantage]]></title>
         <description><![CDATA[DecisiveStrategicAdvantage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/decisivestrategicadvantage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 19:53:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 20:18:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/decisivestrategicadvantage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b14939a-62a2-41dd-b959-c3413b55543d.jpg">]]></description>
+            <link>https://thegrid.ai/decisivestrategicadvantage/5d63cec6-3fea-442a-9b07-eb50d825a246/index.html</link>
+            <guid isPermaLink="false">5d63cec6-3fea-442a-9b07-eb50d825a246</guid>
+            <pubDate>Thu, 18 Feb 2016 20:16:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/012e5459-d7c1-4754-b364-a8af3abe18c8.JPG">]]></description>
-            <link>undefinedf3804d3c-5f28-43bf-a7ea-9f929371ccc2/index.html</link>
+            <link>https://thegrid.ai/decisivestrategicadvantage/f3804d3c-5f28-43bf-a7ea-9f929371ccc2/index.html</link>
             <guid isPermaLink="false">f3804d3c-5f28-43bf-a7ea-9f929371ccc2</guid>
             <pubDate>Thu, 18 Feb 2016 19:52:12 GMT</pubDate>
         </item>
